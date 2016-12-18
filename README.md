@@ -17,6 +17,9 @@ FreeBSD x86 & x64 | 0.10, 0.12, 1, 2, 3, 4, 5
 
 *Linux support refers to Ubuntu, Debian, and CentOS 5
 
+PATH
+
+\node_modules\node-sass\vendor\{VERSION}\binding.node
 
 ## Copyright
 
